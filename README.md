@@ -1,9 +1,17 @@
-# PFE_LicenceMIASI
+# FACULTE DES SCIENCES ET TECHNIQUES MARRAKECH
+
+![Listes-principales-et-dattente-FST-Marrakech-2018](https://user-images.githubusercontent.com/61631857/85946611-7bd63180-b93d-11ea-92fe-f697b54a863b.png)
+
+# LST MATHEMATIQUES ET INFORMATIQUE APPLIQUEES AUX SCIENCES DE L'INGENIEUR
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
+ 
+ 
+
+# PFE MIASI; Tareq Ait Hsain, 2020.
 My undergraduate end of studies project / Mon projet de fin d'etudes de Licence. This is an unrevised version that I didn't submit to my supervisor, 
-but I'm pretty sure the amount of errors is minimal (well at least I hope so). This document is only here on the off-chance someone is looking for specific elements
-that were treated here, it merely serves as a support. I use a great deal of info that I find on github repos, that's why I'm sharing whatever things I do myself.  
+but I'm pretty sure the amount of errors is minimal (well at least I hope so). This document is only here on the off-chance someone is looking for specific elements that were treated here, and has ventured long enough on google results that he ended up here (been there, done that). It merely serves as a support. I use a great deal of info that I find on github repos, that's why I'm sharing whatever things I do myself.  
 # Notes
-This project consisted of aggregating info to form what you can call a pseudo-course. I do not claim to have invented any of the featured theorems, methods or algorithms. I merely regrouped, reworded and organised whatever informations I thought would be useful to introduce the subject at hand. I probably used more than 100 resources, and I'm still trying to locate every single one, which I will add later on.   
+This project consisted of aggregating info to form what I came to call a pseudo-course. I do not claim to have invented any of the featured theorems, methods or algorithms. I merely regrouped, reworded and organised whatever informations I thought would be useful to introduce the subject at hand. I probably used more than 100 resources, and I'm still trying to locate every single one, which I will add later on.   
 
 Bibliography is at the end of the document
 
@@ -103,12 +111,12 @@ applications.***
       
               Step 1: Constructing the neural network. . . . . . . . . . . . . . . . . . . . 
       
-              Step 2: Specifying the two training sets for the equation and boundary/initial conditions . . . . . . . . . . . . . . . . . 
-      
-              Step 3: Compute the difference between the neural network and the constraints . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-      
-              Step 4: Training the neural network to find the best parameters by minimizing the loss function . . . . . . . . . . . . . . . . . . . . . . . . 
-
+              Step 2: Specifying the two training sets for the equation and boundary/initial conditions . . . . . 
+	      
+              Step 3: Compute the difference between the neural network and the constraints . . . . . . . . . . 
+	      
+              Step 4: Training the neural network to find the best parameters by minimizing the loss function . . .
+	      
     4.3 Adam optimization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
     4.4 Usage of DeepXDE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
