@@ -8,10 +8,10 @@
  
 
 # PFE MIASI; Tareq Ait Hsain, 2020.
-My undergraduate end of studies project / Mon projet de fin d'etudes de Licence. This is an unrevised version that I didn't submit to my supervisor, 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) My undergraduate end of studies project / Mon projet de fin d'etudes de Licence. This is an unrevised version that I didn't submit to my supervisor, 
 but I'm pretty sure the amount of errors is minimal (well at least I hope so). This document is only here on the off-chance someone is looking for specific elements that were treated here, and has ventured long enough on google results that he ended up here (been there, done that). It merely serves as a support. I use a great deal of info that I find on github repos, that's why I'm sharing whatever things I do myself.  
 # Notes
-This project consisted of aggregating info to form what I came to call a pseudo-course. I do not claim to have invented any of the featured theorems, methods or algorithms. I merely regrouped, reworded and organised whatever informations I thought would be useful to introduce the subject at hand. I probably used more than 100 resources, and I'm still trying to locate every single one, which I will add later on.   
+This project consisted of aggregating info to form what I came to call a pseudo-course. I do not claim to have invented any of the featured theorems, methods or algorithms. I merely regrouped, reworded and organised whatever information I thought would be useful to introduce the subject at hand. I probably used more than 100 resources, and I'm still trying to locate every single one, which I will add later on.   
 
 Bibliography is at the end of the document
 
