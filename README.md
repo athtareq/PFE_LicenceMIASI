@@ -4,6 +4,10 @@
 
 # LST MATHEMATIQUES ET INFORMATIQUE APPLIQUEES AUX SCIENCES DE L'INGENIEUR
 
+# SOLVING DIFFERENTIAL EQUATIONS USING THE DEEP LEARNING LIBRARY DEEPXDE
+
+# RESOLUTION DES EQUATIONS DIFFERENTIELLES EN UTLISANT LA LIBRAIRIE D'APPRENTISSAGE PROFOND DEEPXDE
+
 # PFE MIASI; Tareq Ait Hsain, 2020.
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) My undergraduate end of studies project / Mon projet de fin d'etudes de Licence. This is an unrevised version that I didn't submit to my supervisor, 
 but I'm pretty sure the amount of errors is minimal (well at least I hope so). This document is only here on the off-chance someone is looking for specific elements that were treated here, and has ventured long enough on google results that he ended up here (been there, done that). It merely serves as a support. I use a great deal of info that I find on github repos, that's why I'm sharing whatever things I do myself.  
